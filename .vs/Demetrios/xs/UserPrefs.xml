@@ -2,18 +2,16 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Demetrios.Repositories/ContatoPostRepository.cs">
     <Files>
       <File FileName="Demetrios.Repositories/ContatoPostRepository.cs" Line="75" Column="53" />
-      <File FileName="Demetrios.Repositories/Interfaces/IContatoPostRepository.cs" Line="15" Column="68" />
-      <File FileName="Demetrios.Services/ContatoPostService.cs" Line="50" Column="75" />
-      <File FileName="Demetrios.Services/Interfaces/IContatoPostService.cs" Line="15" Column="68" />
-      <File FileName="Demetrios/Controllers/Contatos.cs" Line="60" Column="58" />
+      <File FileName="Demetrios.Repositories/Interfaces/IContatoPostRepository.cs" />
+      <File FileName="Demetrios.Services/ContatoPostService.cs" />
+      <File FileName="Demetrios.Services/Interfaces/IContatoPostService.cs" />
+      <File FileName="Demetrios/Controllers/Contatos.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Demetrios" expanded="True" selected="True">
-            <Node name="Demetrios" expanded="True">
-              <Node name="Controllers" expanded="True" />
-            </Node>
+            <Node name="Demetrios" expanded="True" />
             <Node name="Demetrios.Repositories" expanded="True">
               <Node name="Interfaces" expanded="True" />
             </Node>

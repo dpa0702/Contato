@@ -38,7 +38,25 @@ namespace Demetrios.Controllers
             }
         }
 
-        [HttpPost("ContatoUpdate")]
+        [HttpPost("ContatoCreateLote")]
+        [ProducesResponseType(StatusCodes.Status201Created)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public void CreateLote()
+        {
+            for (int a = 0; a < 50; a++)
+            {
+                ContatoPost contatoPost = new ContatoPost { Id = a.ToString(),
+                                                            Nome = "Nome" + a.ToString(),
+                                                            Canal = "Canal" + a.ToString(),
+                                                            Valor = "valor" + a.ToString(),
+                                                            Obs = "Obs" + a.ToString()
+                };
+
+                _contatoPostService.Create(contatoPost);
+            }
+        }
+
+        [HttpPut("ContatoUpdate")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<IActionResult> Update([FromBody]ContatoPost contatoPost)
@@ -81,7 +99,7 @@ namespace Demetrios.Controllers
             }
         }
 
-        [HttpPost("delete/{id}")]
+        [HttpDelete("delete/{id}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<IActionResult> Delete(string id)
