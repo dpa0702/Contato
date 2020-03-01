@@ -42,6 +42,7 @@ namespace Demetrios.Repositories
 
             if (existingcontatoPost != null)
             {
+                existingcontatoPost.Nome = contatoPost.Nome;
                 existingcontatoPost.Canal = contatoPost.Canal;
                 existingcontatoPost.Valor = contatoPost.Valor;
                 existingcontatoPost.Obs = contatoPost.Obs;
@@ -67,9 +68,11 @@ namespace Demetrios.Repositories
             return result;
         }
 
-        public IOrderedQueryable<ContatoPost> GetAll()
+        public IOrderedQueryable<ContatoPost> GetAll(int? pageNumber, int? pageSize)
         {
             var result = _databaseContext.ContatoPosts
+                                .Skip(pageNumber ?? 0)
+                                .Take(pageSize ?? 10)
                                 .OrderByDescending(x => x.DataAlteracao);
 
             return result;
@@ -78,7 +81,7 @@ namespace Demetrios.Repositories
         public IOrderedQueryable<ContatoPost> GetAllByUserAccountId(string userAccountId)
         {
             var result = _databaseContext.ContatoPosts
-                                .Where(x => x.Nome == userAccountId)
+                                .Where(x => x.Id == userAccountId)
                                 .OrderByDescending(x => x.DataAlteracao);
 
             return result;

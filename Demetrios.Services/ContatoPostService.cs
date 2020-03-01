@@ -47,9 +47,9 @@ namespace Demetrios.Services
             return result;
         }
 
-        public IOrderedQueryable<ContatoPost> GetAll()
+        public IOrderedQueryable<ContatoPost> GetAll(int? pageNumber, int? pageSize)
         {
-            var result = _repository.GetAll();
+            var result = _repository.GetAll(pageNumber, pageSize);
 
             return result;
         }

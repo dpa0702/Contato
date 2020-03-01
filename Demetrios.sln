@@ -51,4 +51,25 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0D2D8099-753D-409B-BE0E-48ADBF2C4E5D}
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.StandardHeader = $2
+		$0.VersionControlPolicy = $3
+		$0.TextStylePolicy = $4
+		$4.inheritsSet = null
+		$4.scope = text/x-javascript
+		$0.TextStylePolicy = $5
+		$5.inheritsSet = null
+		$5.scope = text/x-jsts
+		$0.TextStylePolicy = $6
+		$6.inheritsSet = null
+		$6.scope = text/x-json
+		$0.JSONFormattingPolicy = $7
+		$7.AutoStructureCompletion = True
+		$7.BracePositions = SemiExpanded
+		$7.FormatOnPaste = True
+		$7.scope = text/x-json
+	EndGlobalSection
 EndGlobal

@@ -12,7 +12,7 @@ namespace Demetrios.Services.Interfaces
 
         ContatoPost Get(string contatoPostId);
 
-        IOrderedQueryable<ContatoPost> GetAll();
+        IOrderedQueryable<ContatoPost> GetAll(int? pageNumber, int? pageSize);
 
         IOrderedQueryable<ContatoPost> GetAllByUserAccountId(string userAccountId);
 

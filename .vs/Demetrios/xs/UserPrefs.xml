@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{82E197F7-22B3-49BC-AFBA-888DDAD778B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Demetrios.Repositories/ContatoPostRepository.cs">
+    <Files>
+      <File FileName="Demetrios.Repositories/ContatoPostRepository.cs" Line="75" Column="53" />
+      <File FileName="Demetrios.Repositories/Interfaces/IContatoPostRepository.cs" Line="15" Column="68" />
+      <File FileName="Demetrios.Services/ContatoPostService.cs" Line="50" Column="75" />
+      <File FileName="Demetrios.Services/Interfaces/IContatoPostService.cs" Line="15" Column="68" />
+      <File FileName="Demetrios/Controllers/Contatos.cs" Line="60" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Demetrios" expanded="True" selected="True">
+            <Node name="Demetrios" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Demetrios.Repositories" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+            <Node name="Demetrios.Services" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.Demetrios PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

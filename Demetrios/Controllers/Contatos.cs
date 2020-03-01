@@ -57,9 +57,9 @@ namespace Demetrios.Controllers
 
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        public IActionResult GetAll()
+        public IActionResult GetAll(int? pageNumber, int? pageSize)
         {
-            var result = _contatoPostService.GetAll();
+            var result = _contatoPostService.GetAll(pageNumber, pageSize);
 
             return Ok(result);
         }
