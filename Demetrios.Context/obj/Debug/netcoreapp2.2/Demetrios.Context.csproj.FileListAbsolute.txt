@@ -1,0 +1,12 @@
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\bin\Debug\netcoreapp2.2\Demetrios.Context.deps.json
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\bin\Debug\netcoreapp2.2\Demetrios.Context.dll
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\bin\Debug\netcoreapp2.2\Demetrios.Context.pdb
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\bin\Debug\netcoreapp2.2\Demetrios.Models.dll
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\bin\Debug\netcoreapp2.2\Demetrios.Models.pdb
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\obj\Debug\netcoreapp2.2\Demetrios.Context.csprojAssemblyReference.cache
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\obj\Debug\netcoreapp2.2\Demetrios.Context.csproj.CoreCompileInputs.cache
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\obj\Debug\netcoreapp2.2\Demetrios.Context.AssemblyInfoInputs.cache
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\obj\Debug\netcoreapp2.2\Demetrios.Context.AssemblyInfo.cs
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\obj\Debug\netcoreapp2.2\Demetrios.Context.csproj.CopyComplete
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\obj\Debug\netcoreapp2.2\Demetrios.Context.dll
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Context\obj\Debug\netcoreapp2.2\Demetrios.Context.pdb

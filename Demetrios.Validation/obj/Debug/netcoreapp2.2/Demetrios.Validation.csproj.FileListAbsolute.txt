@@ -1,0 +1,12 @@
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\bin\Debug\netcoreapp2.2\Demetrios.Validation.deps.json
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\bin\Debug\netcoreapp2.2\Demetrios.Validation.dll
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\bin\Debug\netcoreapp2.2\Demetrios.Validation.pdb
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\bin\Debug\netcoreapp2.2\Demetrios.Models.dll
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\bin\Debug\netcoreapp2.2\Demetrios.Models.pdb
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\obj\Debug\netcoreapp2.2\Demetrios.Validation.csprojAssemblyReference.cache
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\obj\Debug\netcoreapp2.2\Demetrios.Validation.csproj.CoreCompileInputs.cache
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\obj\Debug\netcoreapp2.2\Demetrios.Validation.AssemblyInfoInputs.cache
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\obj\Debug\netcoreapp2.2\Demetrios.Validation.AssemblyInfo.cs
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\obj\Debug\netcoreapp2.2\Demetrios.Validation.csproj.CopyComplete
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\obj\Debug\netcoreapp2.2\Demetrios.Validation.dll
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Validation\obj\Debug\netcoreapp2.2\Demetrios.Validation.pdb

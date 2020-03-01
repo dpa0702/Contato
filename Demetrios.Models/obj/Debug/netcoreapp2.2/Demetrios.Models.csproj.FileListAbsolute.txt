@@ -1,0 +1,8 @@
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Models\bin\Debug\netcoreapp2.2\Demetrios.Models.deps.json
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Models\bin\Debug\netcoreapp2.2\Demetrios.Models.dll
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Models\bin\Debug\netcoreapp2.2\Demetrios.Models.pdb
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Models\obj\Debug\netcoreapp2.2\Demetrios.Models.csproj.CoreCompileInputs.cache
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Models\obj\Debug\netcoreapp2.2\Demetrios.Models.AssemblyInfoInputs.cache
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Models\obj\Debug\netcoreapp2.2\Demetrios.Models.AssemblyInfo.cs
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Models\obj\Debug\netcoreapp2.2\Demetrios.Models.dll
+C:\Users\5A_PC1\Downloads\WebApi\WebApi\Demetrios.Models\obj\Debug\netcoreapp2.2\Demetrios.Models.pdb
